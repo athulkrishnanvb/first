@@ -1,0 +1,5 @@
+name  = ("athul","arun","ajay")
+age = (22,21,20)
+grade =("A","B","C")
+d=zip(name,age,grade)
+print(list(d))

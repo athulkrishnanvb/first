@@ -1,0 +1,5 @@
+n = (3,4,5,6)
+a = list(n)
+a.append("haai")
+a=tuple(a)
+print(a)

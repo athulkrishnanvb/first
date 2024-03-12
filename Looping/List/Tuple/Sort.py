@@ -1,0 +1,5 @@
+num = (5,2,8,9)
+a = list(num)
+a.sort()
+a=tuple(a)
+print(a)
